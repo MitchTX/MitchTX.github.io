@@ -26,3 +26,11 @@ header img {
 main{
     clear:left;
 }
+main h3{
+    margin: top 3em;
+    font-size:105%;
+}
+#list {
+    text-align:center;
+    font-size:80%;
+}
