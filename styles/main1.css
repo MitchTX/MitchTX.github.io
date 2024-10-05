@@ -12,6 +12,9 @@ body {
     border-radius: 25px;
     box-shadow: 5px 5px 0 0;
 }
+img{
+    margin-left: 20px;
+}
 a:focus, a:hover {
     font-style:italic;
     color:orangered;
@@ -49,6 +52,13 @@ nav{
     border-radius: 20px;
     box-shadow: 3px 3px 4px 4px red;
     padding: 0.5em;
+}
+div .contact{
+    margin: 1.5em, 2em, 0em, 2em;
+    border: 5px dotted blue;
+    border-radius: 20px;
+    box-shadow: 3px 3px 4px 4px red;
+    padding: 1em;
 }
 #list {
     line-height: 1.5em;
