@@ -80,6 +80,8 @@ p.fixed{
     right: 0;
     bottom:100px;
     background-color:green;
+    border:darkgreen;
+    padding:1em;
     
 }
 .copyright{
