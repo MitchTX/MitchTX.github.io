@@ -77,6 +77,10 @@ footer{
 p.fixed{
     width:auto;
     position:fixed;
+    right: 0;
+    bottom:100px;
+    background-color:green;
+    
 }
 .copyright{
     text-align:center;
