@@ -20,9 +20,6 @@ body img {
     background-repeat:repeat-y;
     background-attachment:fixed;
 }
-header{
-    line-height:1.5em;
-}
 header img{
     margin-left: 20px;
 }
