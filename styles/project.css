@@ -17,6 +17,7 @@ body {
 }
 header img{
     margin-left: 40px;
+    padding-left:2em;
 }
 a:focus, a:hover {
     font-style:italic;
