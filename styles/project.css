@@ -16,7 +16,7 @@ body {
     background-attachment: fixed;
 }
 header img{
-    margin-left: 20px;
+    margin-left: 40px;
 }
 a:focus, a:hover {
     font-style:italic;
