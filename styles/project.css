@@ -15,6 +15,9 @@ body {
     background-repeat: repeat-y;
     background-attachment: fixed;
 }
+header{
+    border-bottom:1px solid;
+}
 header img{
     margin-left: 40px;
     padding-left:2em;
