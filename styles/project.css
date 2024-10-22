@@ -16,10 +16,10 @@ body {
     background-attachment: fixed;
 }
 header{
-    border-bottom:1px solid;
+    border-bottom:1px solid; 
 }
 header img{
-    margin-left: 40px;
+    margin-left: 20px;
 }
 a:focus, a:hover {
     font-style:italic;
