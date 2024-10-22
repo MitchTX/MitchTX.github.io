@@ -80,7 +80,7 @@ p.fixed{
     right: 0;
     top:350px;
     background-color:green;
-    border:darkgreen;
+    border:1px solid red;
     padding:1em;
     margin: 1em 2em;
     
