@@ -4,3 +4,7 @@ aside ol{
 aside.ul{
     list-style-type:square;
 }
+head{
+    text-align:center;
+    font-size:large;
+}
