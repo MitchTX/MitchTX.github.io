@@ -31,3 +31,6 @@ header p{
 #nav_menu ul li a.current{
     color: yellow;
 }
+h1{
+    float:left;
+}
