@@ -17,5 +17,7 @@ table.second th{
     background-color:salmon;
 }
 table.second th, table.second td{
-    border:2px solid purple;
+    padding: 0.7em;
+    vertical-align: middle;
+    border: 2px solid purple;
 }
