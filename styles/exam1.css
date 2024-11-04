@@ -51,5 +51,5 @@ h2{
     font-size:xx-large;
 }
 html {
-    background-image: linear-gradient(to right, orange, white);
+    background: linear-gradient(to right, orange, white);
 }
