@@ -42,6 +42,8 @@ aside{
     margin-right:0px;
     margin-bottom: 150px;
     position:fixed;
+    border: 2px solid blue;
+    background-color: lightblue;
 }
 #ol.a{
     list-style-type:upper-roman;
