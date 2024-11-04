@@ -36,6 +36,8 @@ body{
 }
 aside{
     width:20%;
+    float:right;
+    background-color: orange;
 }
 article img{
     float:left;
