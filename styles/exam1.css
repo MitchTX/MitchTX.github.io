@@ -34,11 +34,6 @@ body{
     margin:15px;
     padding: 1em .5em;
 }
-article{
-    width:75%;
-    column-count: 3;
-    column-gap: normal;
-}
 aside{
     width:20%;
 }
@@ -53,9 +48,15 @@ aside.fixed{
 article img{
     float:left;
 }
-article h2{
-    font-size:x-large blue;
-    
+article{
+    clear:left;
+    width:75%;
+    float:left;
+    column-count:3;
+    column-rule: 2px dotted blue;
+    column-gap:2em;
+    margin-left:2em;
+    font:red;
 }
 header{
     border-bottom: 1px blue;
