@@ -56,3 +56,6 @@ article img{
 h2{
     font-size:x-large;
 }
+header{
+    border-bottom: 1px blue;
+}
