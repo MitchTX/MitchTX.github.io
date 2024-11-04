@@ -28,6 +28,7 @@ p::first-letter{
 }
 footer{
     text-align:center;
+    border-top: 2px solid blue;
 }
 body{
     width:95%;
