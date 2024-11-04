@@ -22,7 +22,7 @@
     color: yellow;
 }
 p::first-letter{
-    font-size:xx-large;
+    font-size:x-large;
     font-style:italic;
     font-weight:bold;
 }
@@ -44,4 +44,7 @@ aside{
 }
 article img{
     float:left;
+}
+h2{
+    font-size:xx-large;
 }
