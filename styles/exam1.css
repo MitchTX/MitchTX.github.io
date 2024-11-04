@@ -39,15 +39,6 @@ article{
 aside{
     width:20%;
 }
-#ol.a{
-    list-style-type:upper-roman;
-}
-#aside.ul{
-    list-style-type:square;
-}
-#ol.b{
-    list-style-type:lower-alpha;
-}
 article img{
     float:left;
 }
