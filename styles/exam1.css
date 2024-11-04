@@ -54,3 +54,6 @@ aside{
 #ol.b{
     list-style-type:lower-alpha;
 }
+article img{
+    float:left;
+}
