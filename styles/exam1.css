@@ -42,6 +42,6 @@ aside{
 aside ol{
     list-style-type:upper-roman;
 }
-#ol.2{
+#ol.b{
     list-style-type: lower-alpha;
 }
