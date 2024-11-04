@@ -38,6 +38,8 @@ aside{
     width:20%;
     float:right;
     background-color: orange;
+    margin-bottom:5em;
+    position:fixed;
 }
 article img{
     float:left;
