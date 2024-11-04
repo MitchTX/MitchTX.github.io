@@ -40,7 +40,8 @@ article{
 }
 aside{
     width:20%;
-    position:fixed;
+    margin-right:0px;
+    margin-bottom: 200px;
 }
 article img{
     float:left;
