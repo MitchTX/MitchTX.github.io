@@ -34,7 +34,7 @@ body{
     margin:15px;
     padding: 1em .5em;
 }
-aside{
+aside.fixed{
     width:20%;
     float:right;
     background-color: orange;
