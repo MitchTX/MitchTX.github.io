@@ -29,3 +29,16 @@ p::first-letter{
 footer{
     text-align:center;
 }
+body{
+    width:95%;
+    margin:15px;
+}
+article{
+    width:75%;
+}
+aside{
+    width:20%;
+}
+aside ol{
+    list-style-type:upper-roman;
+}
