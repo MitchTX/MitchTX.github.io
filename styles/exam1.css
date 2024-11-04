@@ -32,12 +32,16 @@ footer{
 body{
     width:95%;
     margin:15px;
+    background:linear-gradient(to left, orange, white);
 }
 article{
     width:75%;
 }
 aside{
     width:20%;
+    margin-right:0px;
+    margin-bottom: 150px;
+    position:fixed;
 }
 #ol.a{
     list-style-type:upper-roman;
