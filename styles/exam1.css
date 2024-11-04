@@ -22,7 +22,7 @@
     color: yellow;
 }
 p::first-letter{
-    font-size:200%;
+    font-size:xx-large;
     font-style:italic;
     font-weight:bold;
 }
