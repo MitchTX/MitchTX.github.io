@@ -21,7 +21,7 @@
 #nav_menu ul li a.current{
     color: yellow;
 }
-article p::first-letter{
+p::first-letter{
     font-size:large;
     font-style:italic;
     font-weight:bold;
