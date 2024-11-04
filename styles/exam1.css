@@ -55,3 +55,6 @@ article{
 h1 h2{
     font:blue;
 }
+html{
+    background:linear-gradient(to left orange white);
+}
