@@ -41,8 +41,14 @@ article{
 }
 aside{
     width:20%;
-    margin-right:0px;
-    margin-bottom: 200px;
+}
+aside.fixed{
+    position:fixed;
+    right: 0;
+    background-color:lightblue;
+    border:1px solid blue;
+    padding:1em;
+    margin: 1em;
 }
 article img{
     float:left;
