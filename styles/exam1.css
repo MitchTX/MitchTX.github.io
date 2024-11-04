@@ -53,8 +53,9 @@ aside.fixed{
 article img{
     float:left;
 }
-h2{
-    font-size:x-large;
+article h2{
+    font-size:x-large blue;
+    
 }
 header{
     border-bottom: 1px blue;
