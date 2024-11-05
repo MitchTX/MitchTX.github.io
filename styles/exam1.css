@@ -69,5 +69,5 @@ article h1{
     list-style-type:square;
 }
 html{
-    background:linear-gradient(to left orange green);
+    background:linear-gradient(#e66465, #9198e5);
 }
