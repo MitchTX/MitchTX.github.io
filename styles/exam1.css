@@ -55,7 +55,6 @@ article{
     column-rule: 2px dashed blue;
     column-gap:2em;
     margin-left:2em;
-    float:left;
     border-top: 3px solid blue;
 }
 article h1, article h2{
