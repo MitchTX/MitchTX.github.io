@@ -42,6 +42,7 @@ aside{
     width:20%;
     float:right;
     background-color: orange;
+    border:2px solid red;
     top:4em;
     right:0;
 }
