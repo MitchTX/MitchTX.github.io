@@ -45,6 +45,7 @@ aside{
     border:2px solid red;
     top:4em;
     right:0;
+    position:fixed;
 }
 article img{
     float:left;
