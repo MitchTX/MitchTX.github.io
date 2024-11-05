@@ -69,3 +69,6 @@ article h1{
 .text h1 h2{
     font:blue;
 }
+.aside.ul{
+    list-style-type:square;
+}
