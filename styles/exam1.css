@@ -58,7 +58,7 @@ article{
     border-top: 3px solid blue;
 }
 html{
-    background:linear-gradient(to left orange white);
+    background-color:linear-gradient(to left orange white);
 }
 article h1, article h2{
     font:blue;
