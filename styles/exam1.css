@@ -54,6 +54,7 @@ article{
     column-gap:2em;
     margin-left:2em;
     float:left;
+    border-top: 3px solid blue;
 }
 h1 h2{
     font:blue;
