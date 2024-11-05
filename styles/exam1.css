@@ -37,6 +37,9 @@ body{
     background-color: white;
     border: 1px solid black;
     box-shadow: 5px 5px 0 0;
+    background-position: right;
+    background-repeat: repeat-y;
+    background-attachment: fixed;
 }
 aside{
     width:20%;
