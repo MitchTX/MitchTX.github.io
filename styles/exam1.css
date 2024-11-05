@@ -60,3 +60,6 @@ h1 h2{
 html{
     background:linear-gradient(to left orange white);
 }
+article h1, article h2{
+    font:blue;
+}
