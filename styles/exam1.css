@@ -53,6 +53,7 @@ article{
     column-rule: 2px dashed blue;
     column-gap:2em;
     margin-left:2em;
+    float:left;
 }
 h1 h2{
     font:blue;
