@@ -80,13 +80,15 @@ html, body {
         padding:0 1em;
     }
     article h2{
-        font-size:1.25em;
+        font-size:1.1em;
     }
     article p{
-        font-size: 1em;
+        font-size: .8em;
     }
     footer{
-        vertical-align:middle;
+        text-align:center;
+        border-top: 1px solid #f46b45;
+        font-size:.6em;
     }
     .menu-button-container {
         display: flex;
