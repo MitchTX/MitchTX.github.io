@@ -26,10 +26,12 @@ table.second th, table.second td{
 }
 table.third{
     vertical-align:top;
-    border-bottom:2px solid red;
+    border-bottom:2px solid orangered;
 }
 table.third thead{
     background-color:lightgreen;
+    border-bottom: 2px solid orangered;
+    border-top: 2px solid orangered;
 }
 table.third th{
     text-align:center;
