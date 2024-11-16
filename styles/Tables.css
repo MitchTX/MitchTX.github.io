@@ -36,6 +36,9 @@ table.third tbody{
 table.third th{
     text-align:center;
 }
+table.third thead tr:first-child { 
+    border-top: 2px solid orangered;
+}
 
 
 
