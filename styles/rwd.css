@@ -85,3 +85,6 @@ html, body {
     article p{
         font-size: 1em;
     }
+    footer{
+        vertical-align:middle;
+    }
