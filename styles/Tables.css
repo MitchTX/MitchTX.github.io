@@ -30,9 +30,6 @@ table.third{
 table.third thead{
     background-color:lightgreen;
 }
-table.third tbody{
-    border-bottom: 2px solid red;
-}
 table.third th{
     text-align:center;
 }
