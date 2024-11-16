@@ -96,7 +96,6 @@ html, body {
         border-top: 2px solid #f46b45;
         font-size:.8em;
     }
-    @media screen and (max width:600px){
     .menu-button-container {
         display: flex;
         }
@@ -135,4 +134,3 @@ html, body {
         .menu > li:not(:last-child) {
         border-bottom: 1px solid #444;
         }
-    }
