@@ -26,6 +26,7 @@ table.second th, table.second td{
 }
 table.third{
     vertical-align:top;
+    border-bottom:2px solid red;
 }
 table.third thead{
     background-color:lightgreen;
