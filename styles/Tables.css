@@ -30,7 +30,7 @@ table.third{
 }
 table.third thead{
     background-color:lightgreen;
-    border-collapse:collapse;
+    border-color:lightgreen;
 }
 table.third th{
     text-align:center;
