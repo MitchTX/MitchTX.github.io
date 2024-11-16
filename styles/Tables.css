@@ -24,6 +24,19 @@ table.second th, table.second td{
     vertical-align: middle;
     border: 2px solid purple;
 }
+table.third{
+    vertical-align:top;
+}
+table.third thead{
+    background-color:lightgreen;
+}
+table.third tbody{
+    border-bottom: 2px solid red;
+}
+
+
+
+
 @media only screen and (max-width: 425px) {
     th, td {
     display: block;
@@ -32,4 +45,4 @@ table.second th, table.second td{
     display: none;
     padding: 0;
     }
-    }
+}
